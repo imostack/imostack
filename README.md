@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Imoyin Sampson 👋
 
-<!--
-**imostack/imostack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer & UI/UX Designer** passionate about building impactful digital products. Currently, I’m focused on **App Guts**, a SaaS company I co-founded that creates tools for businesses to scale online.  
 
-Here are some ideas to get you started:
+### 🌐 About App Guts
+We build products to empower businesses:  
+- **AccessRA** – In partnership with AccessRA building White-label solutions for businesses like eCommerce  
+- **Multi-platform** advertising (coming soon)  
+- **Events Kona** – Free event management platform (Going Live in 2026)  
+- **Custom App Requests** – Tailored solutions for unique business needs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+- Exploring **cloud security**, SaaS platforms, and full-stack development  
+- Designing **UI/UX** for intuitive and beautiful digital experiences  
+- Building scalable products for businesses and users  
+
+### 📫 Reach Me
+- Email: [imoyin@appguts.com](mailto:imoyin@appguts.com)
+
+---
+
+### 💡 Things I Love
+- Solving real-world business problems with technology  
+- Designing interfaces that users actually enjoy  
+- Working remotely and building scalable SaaS products
