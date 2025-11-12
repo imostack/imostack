@@ -13,6 +13,8 @@ We build products to empower businesses:
 - Exploring **cloud security**, SaaS platforms, and full-stack development  
 - Designing **UI/UX** for intuitive and beautiful digital experiences  
 - Building scalable products for businesses and users  
+- **Over 5 years of experience building and launching web projects for clients**, managing their products, making steady iterations, and improving user experiences  
+- Designed **several UI/UX projects for various brands**, ensuring consistency and quality | using tools like Figma and Adobe Photoshop 
 
 ### 📫 Reach Me
 - Email: [imoyin@appguts.com](mailto:imoyin@appguts.com)
@@ -22,4 +24,4 @@ We build products to empower businesses:
 ### 💡 Things I Love
 - Solving real-world business problems with technology  
 - Designing interfaces that users actually enjoy  
-- Working remotely and building scalable SaaS products
+- Working remotely and building scalable SaaS products  
