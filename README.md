@@ -4,9 +4,7 @@ I’m a **Software Engineer & UI/UX Designer** passionate about building impactf
 
 ### 🌐 About App Guts
 We build products to empower businesses:  
-- **AccessRA** – In partnership with AccessRA building White-label solutions for businesses like eCommerce  
-- **Multi-platform** advertising (coming soon)  
-- **Events Kona** – Free event management platform (Going Live in 2026)  
+- **AccessRA** – In partnership with AccessRA building White-label solutions for businesses like eCommerce   
 - **Custom App Requests** – Tailored solutions for unique business needs  
 
 ### 💻 What I Do
