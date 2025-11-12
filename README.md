@@ -14,10 +14,13 @@ We build products to empower businesses:
 - Designing **UI/UX** for intuitive and beautiful digital experiences  
 - Building scalable products for businesses and users  
 - **Over 5 years of experience building and launching web projects for clients**, managing their products, making steady iterations, and improving user experiences  
-- Designed **several UI/UX projects for various brands**, ensuring consistency and quality | using tools like Figma and Adobe Photoshop 
+- Designed **several UI/UX projects for various brands**, ensuring consistency and quality || using tools like Figma and Adobe Photoshop 
 
 ### 📫 Reach Me
 - Email: [imoyin@appguts.com](mailto:imoyin@appguts.com)
+
+### Tech Stack: 
+    🟨 JavaScript 🟦 TypeScript ⚛️ React 🟪 Next.js 🎨 Tailwind CSS 🎨 Figma 🗄️ Supabase / PostgreSQL 🟩 Node.js 🎬 Framer Motion 🚀 Vercel 🐙 Git/GitHub
 
 ---
 
