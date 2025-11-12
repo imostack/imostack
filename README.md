@@ -28,7 +28,7 @@ Backend:
 Node.js | Supabase / PostgreSQL
 
 DevOps & Infrastructure:
-Docker | Jenkins | Linux | Vercel
+Docker | Jenkins | Linux | AWS | Vercel
 
 Version Control & Tools:
 Git | GitHub
