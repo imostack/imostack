@@ -20,7 +20,8 @@ We build products to empower businesses:
 - Email: [imoyin@appguts.com](mailto:imoyin@appguts.com)
 
 ### Tech Stack: 
-    🟨 JavaScript 🟦 TypeScript ⚛️ React 🟪 Next.js 🎨 Tailwind CSS 🎨 Figma 🗄️ Supabase / PostgreSQL 🟩 Node.js 🎬 Framer Motion 🚀 Vercel 🐙 Git/GitHub
+    🟨 JavaScript 🟦 TypeScript ⚛️ React 🟪 Next.js 🎨 Tailwind CSS 🎨 Figma 🗄️ Supabase / PostgreSQL 
+    🟩 Node.js 🎬 Framer Motion 🚀 Vercel 🐙 Git/GitHub
 
 ---
 
