@@ -20,7 +20,7 @@ We build products to empower businesses:
 ### Tech Stack: 
 
 Frontend:
-JavaScript | TypeScript | React | Next.js | Tailwind CSS | Framer Motion | Figma
+HTML5 | CSS | JavaScript | TypeScript | React | Next.js | Tailwind CSS | Framer Motion | Figma
 
 Backend:
 Node.js | Supabase / PostgreSQL
