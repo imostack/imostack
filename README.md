@@ -15,7 +15,7 @@ We build products to empower businesses:
 - Designed **several UI/UX projects for various brands**, ensuring consistency and quality || using tools like Figma and Adobe Photoshop 
 
 ### 📫 Reach Me
-- Email: [imoyin@appguts.com](mailto:imoyin@appguts.com)
+- Email: [sampsonimoyin@gmail.com](mailto:sampsonimoyin@gmail.com)
 
 ### Tech Stack: 
 
