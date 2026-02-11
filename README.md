@@ -6,7 +6,7 @@ I’m currently building **App Guts**, a SaaS company where I design and develop
 
 ---
 
-## 🚀 What I’m Building — App Guts
+## What I’m Building - App Guts
 
 **App Guts** is a product-driven SaaS company focused on building useful, business-first applications.
 
