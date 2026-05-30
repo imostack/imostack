@@ -11,7 +11,7 @@ I’m currently building **App Guts**, a SaaS company where I design and develop
 **App Guts** is a product-driven SaaS company focused on building useful, business-first applications.
 
 **Current Product**
-- **EventsKona** : An events platform designed to help organizers create, manage, and promote events more efficiently.
+- **EventsKona** : An events platform designed to help organizers create, manage and sell tickets, and promote events more efficiently.
 
 ---
 
