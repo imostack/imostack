@@ -9,7 +9,7 @@
   </p>
 </div>
 <hr />
-<p>I came to engineering through design, which is probably why I can't ship an ugly thing in good conscience. These days I also write the Dockerfile and own the thing after it goes live — you design differently once you're the one getting woken up when it breaks.</p>
+<p>I came to engineering through design, which is probably why I can't ship an ugly thing in good conscience. These days I also write the Dockerfile and own the thing after it goes live - you design differently once you're the one getting woken up when it breaks.</p>
 <p>Six years in, what I still like most is the small stuff: a form that stops fighting the user, a flow that just works and nobody writes in to complain about. That silence is the whole job.</p>
 <details>
 <summary><b>&nbsp;Why I care so much about the boring parts →</b></summary>
@@ -18,8 +18,8 @@
 </details>
 <hr />
 <h3>App Guts</h3>
-<p>A small SaaS company where I build practical tools for businesses.</p>
-<p><b><a href="https://eventskona.com">EventsKona</a></b> is the first one. It handles the unglamorous half of running an event — creating it, selling tickets, knowing who's actually coming — instead of a group chat and a spreadsheet that disagree with each other an hour before doors open.</p>
+<p>A SaaS company where I build practical tools for businesses.</p>
+<p><b><a href="https://eventskona.com">EventsKona</a></b> is the first one. It handles the unglamorous half of running an event — creating it, selling tickets, knowing who's actually coming - instead of a group chat and a spreadsheet that disagree with each other an hour before doors open.</p>
 <hr />
 <h3>Stack</h3>
 <div align="center">
