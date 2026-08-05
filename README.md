@@ -1,57 +1,45 @@
-## 👋 Hi, I’m Imoyin Sampson
+# Imoyin Sampson
 
-I’m a **Software Engineer with a strong UI/UX background**, focused on building **scalable, production-ready products**. I care about usability, performance, and shipping software that solves real business problems.
+I build things for the web. Mostly the kind people actually use.
 
-I’m currently building **App Guts**, a SaaS company where I design and develop practical tools for businesses.
-
----
-
-## What I’m Building - App Guts
-
-**App Guts** is a product-driven SaaS company focused on building useful, business-first applications.
-
-**Current Product**
-- **EventsKona** : An events platform designed to help organizers create, manage and sell tickets, and promote events more efficiently.
+I came to engineering through design, which is probably why I can't ship an ugly thing in good conscience. Five years in, the part I still like most is the small stuff: a form that stops fighting the user, a page that loads before anyone notices it's loading, a flow that just… works, and nobody writes in to complain about it. That silence is the whole job.
 
 ---
 
-## 💼 What I Do
+## App Guts
 
-- Build and maintain **full-stack web applications**
-- Design **clean, intuitive UI/UX** with strong attention to detail
-- Work on **SaaS platforms** and continuous product iteration
-- Explore **cloud, DevOps, and cloud security** as part of building reliable systems
-- **5+ years of experience** building, launching, and improving web products for clients and startups
-- Translate business requirements into **usable, maintainable software**
-- Design and ship **UI/UX solutions for multiple brands**, ensuring consistency and clarity
+I'm building **App Guts**, a small SaaS company where I make practical tools for businesses. No moonshots. Just software that earns its place on someone's screen.
+
+**EventsKona** — our first product. It handles the unglamorous half of running an event: creating it, selling the tickets, keeping track of who's actually coming, getting the word out. The goal is that organizers spend their energy on the part people remember, and none of it on the part people shouldn't have to think about.
 
 ---
 
-## 🛠 Tech Stack
+## What I work with
 
-**Frontend**  
-HTML5 · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Framer Motion · Figma
+**Frontend** — TypeScript, React, Next.js, Tailwind, Framer Motion, Figma
 
-**Backend**  
-Node.js · Supabase · PostgreSQL
+**Backend** — Node.js, PostgreSQL, Supabase
 
-**DevOps & Infrastructure**  
-Docker · Jenkins · Linux · AWS · Vercel
+**Infrastructure** — Docker, Jenkins, Linux, AWS, Vercel
 
-**Version Control & Tooling**  
-Git · GitHub
+**Everyday** — Git, GitHub, and a notebook I keep forgetting to digitize
 
 ---
 
-## 💡 What I Care About
+## What I believe about software
 
-- Solving real business problems with technology  
-- Building products that are **useful, not just impressive**  
-- Clean UI, good UX, and maintainable code  
-- Remote work and scalable SaaS systems  
+Useful beats impressive. Every time.
+
+If someone has to think about your interface, the interface lost.
+
+Boring, maintainable code is a kindness to whoever opens the file next — usually me, six months from now, remembering nothing.
+
+Ship it, then make it better. The second part is not optional.
 
 ---
 
-## 📫 Contact
+## Say hi
 
-- **Email:** [imoyin.s@appguts.com](mailto:imoyin.s@appguts.com)
+**imoyin.s@appguts.com**
+
+I read everything. If you're building something and want a second pair of eyes on it, I'm genuinely happy to look.
