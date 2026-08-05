@@ -1,27 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=F0B429&center=true&vCenter=true&width=640&height=45&lines=I+build+things+people+actually+use.;The+boring+parts+are+where+people+quit." alt="I build things people actually use." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=900&color=F0B429&center=true&vCenter=true&width=600&height=40&lines=I+build+things+people+actually+use.;The+boring+parts+are+where+people+quit." alt="I build things people actually use." />
   <h3>Imoyin Sampson</h3>
   <p><em>I design it, build it, ship it, and keep it running.</em></p>
   <p>
     <a href="https://appguts.com"><img src="https://img.shields.io/badge/App_Guts-0D1117?style=flat-square" alt="App Guts" /></a>
     <a href="https://eventskona.com"><img src="https://img.shields.io/badge/EventsKona-0D1117?style=flat-square" alt="EventsKona" /></a>
-    <a href="mailto:imoyin.s@appguts.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=F0B429" alt="Email" /></a>
+    <a href="mailto:hello@imoyinsampson.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=F0B429" alt="Email" /></a>
   </p>
 </div>
----
-I came to engineering through design, which is probably why I can't ship an ugly thing in good conscience. These days it runs the other way too — I write the Dockerfile, wire up the pipeline, and own the thing after it goes live. You design differently once you're the one who gets woken up when it breaks.
-Six years in, the part I still like most is the small stuff: a form that stops fighting the user, a page that loads before anyone notices it's loading, a flow that just works and nobody writes in to complain about. That silence is the whole job.
+<hr />
+<p>I came to engineering through design, which is probably why I can't ship an ugly thing in good conscience. These days I also write the Dockerfile and own the thing after it goes live — you design differently once you're the one getting woken up when it breaks.</p>
+<p>Six years in, what I still like most is the small stuff: a form that stops fighting the user, a flow that just works and nobody writes in to complain about. That silence is the whole job.</p>
 <details>
 <summary><b>&nbsp;Why I care so much about the boring parts →</b></summary>
 <br/>
 <p>Because the boring parts are where people quit. Nobody abandons a product over a stiff animation. They abandon it because the reset email never arrived, or the page went blank on slow data and they didn't know if their money went through.</p>
 </details>
----
-App Guts
-A small SaaS company where I make practical tools for businesses. No moonshots — just software that earns its place on someone's screen.
-EventsKona handles the unglamorous half of running an event: creating it, selling tickets, tracking who's actually coming. Most organizers are running all of that out of a group chat and a spreadsheet, unsure which one is right an hour before doors open.
----
-Stack
+<hr />
+<h3>App Guts</h3>
+<p>A small SaaS company where I build practical tools for businesses.</p>
+<p><b><a href="https://eventskona.com">EventsKona</a></b> is the first one. It handles the unglamorous half of running an event — creating it, selling tickets, knowing who's actually coming — instead of a group chat and a spreadsheet that disagree with each other an hour before doors open.</p>
+<hr />
+<h3>Stack</h3>
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -50,21 +50,17 @@ Stack
   <tr><td><b>TypeScript</b></td><td>Saved me from myself more times than I can count.</td></tr>
   <tr><td><b>Next.js</b></td><td>Great until you're three layers deep in caching. Then it's a personality test.</td></tr>
   <tr><td><b>Figma</b></td><td>Where the real work happens before a single line gets written.</td></tr>
-  <tr><td><b>Docker</b></td><td>"Works on my machine" is finally a real sentence.</td></tr>
   <tr><td><b>Jenkins</b></td><td>Not fashionable. Still standing. Respect.</td></tr>
 </table>
 </details>
----
-What I believe about software
-> Useful beats impressive. Every time.
->
-> If someone has to think about your interface, the interface lost.
->
-> Ship it, then make it better. The second part isn't optional.
----
+<hr />
+<blockquote>
+  <p>Useful beats impressive. Every time.</p>
+  <p>If someone has to think about your interface, the interface lost.</p>
+</blockquote>
+<hr />
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=imostack&show_icons=true&hide_border=true&bg_color=00000000&title_color=F0B429&icon_color=F0B429&text_color=6E7681&hide=issues" alt="GitHub stats" />
   <img height="150" src="https://streak-stats.demolab.com?user=imostack&hide_border=true&background=00000000&stroke=00000000&ring=F0B429&fire=F0B429&currStreakLabel=F0B429&currStreakNum=6E7681&sideNums=6E7681&sideLabels=6E7681&dates=6E7681" alt="Streak" />
-  <p><b><a href="mailto:imoyin.s@appguts.com">hello@imoyinsampson.com</a></b></p>
+  <p><b><a href="mailto:hello@imoyinsampson.com">hello@imoyinsampson.com</a></b></p>
   <p>I read everything.</p>
 </div>
