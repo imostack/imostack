@@ -40,6 +40,6 @@ Ship it, then make it better. The second part is not optional.
 
 ## Say hi
 
-**imoyin.s@appguts.com**
+**hello@imoyinsampson.com**
 
 I read everything. If you're building something and want a second pair of eyes on it, I'm genuinely happy to look.
